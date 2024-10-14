@@ -3,13 +3,16 @@
 <p align="center">
   <img align="center" src="https://i.ibb.co/R3C5QJ7/file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU.jpg" alt="VIP Bishnoi" width="600" style="border: 3px solid #00ffcc; border-radius: 10px;">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <h3 align="center" style="color: #ffcc00;">Aspiring Certified Ethical Hacker 🛡️ | Tech Enthusiast | Team Player 🚀</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipbishnoi&theme=dark" alt="vipbishnoi" />
 </p>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
 
 - 🔗 Explore my <span style="color: #00ffcc;">[Projects & Demos](https://youtube-website.vercel.app/)</span>  
 - 🎓 Currently pursuing BCA at Apex College, Jaipur
@@ -59,6 +62,9 @@
 </p>
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+
+
 
 <h3 align="center" style="color: #ffcc00;">🎯 Here's What I'm Working On</h3>
 <ul style="text-align: center;">
@@ -68,6 +74,8 @@
 </ul>
 
 ---
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <h3 align="center" style="color: #ffcc00;">🏆 Achievements</h3>
 <ul style="text-align: center;">
