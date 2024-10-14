@@ -5,7 +5,7 @@ Preparing to become a Certified Ethical Hacker 🛡️.
 
 <img align="right" alt="coding" width="400" src="https://ibb.co/bsrfNG7"><img src="https://i.ibb.co/R3C5QJ7/file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU.jpg" alt="file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIP BISHNOI &label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIP BISHNOI &label=Profile%20views&color=0e75b6&style=flat" alt="VIP" /> </p>
 
 - 👨‍💻  my team's projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
