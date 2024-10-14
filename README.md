@@ -7,9 +7,7 @@
 
 <h3 align="center" style="color: #ffcc00;">Aspiring Certified Ethical Hacker 🛡️ | Tech Enthusiast | Team Player 🚀</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipbishnoi&theme=dark" alt="vipbishnoi" />
-</p>
+
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
