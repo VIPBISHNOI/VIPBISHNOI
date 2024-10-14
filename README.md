@@ -1,31 +1,107 @@
-<h1 align="center">Hi 👋, I'm VIP BISHNOI</h1>
-<h3 align="center">
-Preparing to become a Certified Ethical Hacker 🛡️.
-</h3>
+<h1 align="center" style="color: #00ffcc;">Hi 👋, I'm <span style="color: #ffcc00;">VIP BISHNOI</span></h1>
 
-<img align="right" alt="coding" width="400" src="https://ibb.co/bsrfNG7"><img src="https://i.ibb.co/R3C5QJ7/file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU.jpg" alt="file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIP BISHNOI &label=Profile%20views&color=0e75b6&style=flat" alt="VIP" /> </p>
-
-- 👨‍💻  my team's projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashutosh mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+<p align="center">
+  <img align="center" src="https://i.ibb.co/R3C5QJ7/file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU.jpg" alt="VIP Bishnoi" width="600" style="border: 3px solid #00ffcc; border-radius: 10px;">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="center" style="color: #ffcc00;">Aspiring Certified Ethical Hacker 🛡️ | Tech Enthusiast | Team Player 🚀</h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipbishnoi&theme=dark" alt="vipbishnoi" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+- 🔗 Explore my <span style="color: #00ffcc;">[Projects & Demos](https://youtube-website.vercel.app/)</span>  
+- 🎓 Currently pursuing BCA at Apex College, Jaipur
+- 💡 Fun fact: **I’m always on the lookout for new hacking techniques and love leveling up my cybersecurity skills.**
+- 💬 Feel free to **ask me anything** about Ethical Hacking or Software Development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
+---
+
+<h3 align="center" style="color: #ffcc00;">🌍 Connect with me</h3>
+<p align="center">
+<a href="https://dev.to/vipbishnoi" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vipbishnoi" height="40" width="40" />
+</a>
+<a href="https://discord.gg/vipbishnoi.29" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vipbishnoi.29" height="40" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/vipbishnoi" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="center" style="color: #ffcc00;">🛠️ Languages and Tools</h3>
+<p align="center">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a> 
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center" style="color: #ffcc00;">🎯 Here's What I'm Working On</h3>
+<ul style="text-align: center;">
+  <li>🔒 **Ethical Hacking**: Building skills to become a Certified Ethical Hacker.</li>
+  <li>💻 **Software Development**: Improving my proficiency in **C++, Java, Python** and more.</li>
+  <li>🌱 **Collaborative Projects**: Working with teams on **full-stack** applications with a focus on **security**.</li>
+</ul>
+
+---
+
+<h3 align="center" style="color: #ffcc00;">🏆 Achievements</h3>
+<ul style="text-align: center;">
+  <li>**Team Projects**: Successfully completed various projects in college, focusing on innovative solutions.</li>
+  <li>**Certifications**: Currently preparing for Ethical Hacking certifications to strengthen my skills.</li>
+</ul>
+
+---
+
+<h3 align="center" style="color: #ffcc00;">📚 Learning Journey</h3>
+<ul style="text-align: center;">
+  <li>**Courses**: Enrolled in various online courses for web development and ethical hacking.</li>
+  <li>**Reading**: Always reading up on the latest in cybersecurity and programming languages.</li>
+</ul>
+
+---
+
+<h3 align="center" style="color: #ffcc00;">🤝 Let's Collaborate!</h3>
+I'm open to collaborating on exciting projects and learning new skills. If you have an idea or need help with something, feel free to reach out!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGwcz4f7HtY2MPG/giphy.gif" alt="Hacker Animation" width="400" style="animation: pulse 2s infinite;">
+</p>
+
+<style>
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+</style>
