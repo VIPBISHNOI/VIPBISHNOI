@@ -92,16 +92,3 @@ I'm open to collaborating on exciting projects and learning new skills. If you h
   <img src="https://media.giphy.com/media/l4FGwcz4f7HtY2MPG/giphy.gif" alt="Hacker Animation" width="400" style="animation: pulse 2s infinite;">
 </p>
 
-<style>
-  @keyframes pulse {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.1);
-    }
-    100% {
-      transform: scale(1);
-    }
-  }
-</style>
