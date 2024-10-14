@@ -1,12 +1,11 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm VIP BISHNOI</h1>
 <h3 align="center">
 Preparing to become a Certified Ethical Hacker 🛡️.
 </h3>
 
-<img align="right" alt="coding" width="400" src="<a href="https://ibb.co/bsrfNG7"><img src="https://i.ibb.co/R3C5QJ7/file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU.jpg" alt="file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU" border="0"></a>">
+<img align="right" alt="coding" width="400" src="https://ibb.co/bsrfNG7"><img src="https://i.ibb.co/R3C5QJ7/file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU.jpg" alt="file-Rd-KFpn-Gf-AW8l7-QAXm6uw5u-PU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIP BISHNOI &label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 👨‍💻  my team's projects are available at [https://linktr.ee/simplified_learner](https://linktr.ee/simplified_learner)
 
