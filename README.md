@@ -12,7 +12,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
 
-- 🔗 Explore my <span style="color: #00ffcc;">[Projects & Demos](https://youtube-website.vercel.app/)</span>  
+- 🔗 Explore my team <span style="color: #00ffcc;">[Projects & Demos](https://youtube-website.vercel.app/)</span>  
 - 🎓 Currently pursuing BCA at Apex College, Jaipur
 - 💡 Fun fact: **I’m always on the lookout for new hacking techniques and love leveling up my cybersecurity skills.**
 - 💬 Feel free to **ask me anything** about Ethical Hacking or Software Development.
